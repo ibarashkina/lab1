@@ -48,7 +48,7 @@ position: fixed;
 width: 45%;
 height: 30px;
 padding: 10px 90px;
-margin: 40px 0;
+margin: 35px 0;
 text-align: center;
 }
 
@@ -70,7 +70,7 @@ font-size: 16px;
 
 .vertical_line {
 border-left: 3px solid #69696a;
-height: 180px; 
+height: 155px; 
 margin-left: 5px;
 } 
 
